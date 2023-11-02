@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Testing1" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.Testing1" parent="Base.Theme.Testing1" />
+
+<!--    <style name="bgTheme">-->
+<!--        <item name="colorPrimary">#181A25</item>-->
+<!--    </style>-->
+</resources>
